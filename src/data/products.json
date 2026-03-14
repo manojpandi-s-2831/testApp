@@ -1,0 +1,3457 @@
+[
+  {
+    "categoryName": "வெட்டிவேர் மாலை",
+    "items": [
+      {
+        "itemName": "1 அடி மாலை",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "2 அடி மாலை",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "3 அடி மாலை",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "4 அடி மாலை",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "5 அடி மாலை",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      }
+    ]
+  },
+  {
+    "categoryName": "தெர்மாகோல்  BOX",
+    "items": [
+      {
+        "itemName": "5   LITER",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "10   LITER",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "15   LITER",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "20 LITER",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "32 LITER",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "57 LITER",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "65 LITER",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "75  GRAND",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "1 METER",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "18  LITER XL பெட்டி",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      }
+    ]
+  },
+  {
+    "categoryName": "கட்டம்",
+    "items": [
+      {
+        "itemName": "கோல்டு",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "சிவப்பு",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "ரோஸ்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "பச்சை",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "சிந்தாமணி",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "ஒயிட்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "இங்க்  புளூ",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      }
+    ]
+  },
+  {
+    "categoryName": "டேப் குஞ்சம்",
+    "items": [
+      {
+        "itemName": "சிவப்பு",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "ரோஸ்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "சிந்தாமணி",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "இங்க் புளூ",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "பச்சை",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      }
+    ]
+  },
+  {
+    "categoryName": "இதழ்  சிவப்பு பூ",
+    "items": [
+      {
+        "itemName": "ஒன் சைடு வெல்வட",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "காம்பு",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "செல்லோ டேப",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "BROWN 3 INCH",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "WHITE 3 INCH",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "WHITE 1 INCH",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "டபுள் சைடு டேப்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "சண்டி கட்டை சில்வர்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "டொயின் நூல் ஒயிட்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "சுக்ளி   ZEN  - கலர்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      }
+    ]
+  },
+  {
+    "categoryName": "யானைக்கன்னி உள்ளன்(SPL)",
+    "items": [
+      {
+        "itemName": "சிவப்பு",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "அரக்கு சிவப்ப",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "ரோஸ்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "கிளிப்பச்சை",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "சிந்தாமணி",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "இங்க்புளூ",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "கரும்பச்சை",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      }
+    ]
+  },
+  {
+    "categoryName": "யானைக்கன்னி உள்ளன்",
+    "items": [
+      {
+        "itemName": "சிவப்பு",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "அரக்கு சிவப்ப",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "ரோஸ்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "கிளிப்பச்சை",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "சிந்தாமணி",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "இங்க்புளூ",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "கரும்பச்சை",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      }
+    ]
+  },
+  {
+    "categoryName": "யானைக்கன்னி டெய்சி துணி",
+    "items": [
+      {
+        "itemName": "சிவப்பு",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "ரோஸ்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "கிளிப்பச்சை",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "கரும்பச்சை",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "மஞ்சள்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "பேன்டா",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "இங்க்புளூ",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "வைலட்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      }
+    ]
+  },
+  {
+    "categoryName": "கோல்டு பூ கன்னி",
+    "items": [
+      {
+        "itemName": "சிவப்பு",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "ரோஸ்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "கிளிப்பச்சை",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "கரும்பச்சை",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "மஞ்சள்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "பேன்டா",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "இங்க்புளூ",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "வைலட்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "ஜரிகைலேஸ் கோல்ட",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "ஜரிகைலேஸ் சில்வர",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "4 கலர் சடை ரிப்பன",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "கோல்டு சடைரிப்பன்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      }
+    ]
+  },
+  {
+    "categoryName": "விள்ளை – கோல்டு ஜரிகை",
+    "items": [
+      {
+        "itemName": "இலை விள்ள",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "நிலா பிறைவிள்ள",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "கத்தரி கருப்பு கலர",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "கத்தரி பேன்டா கலர்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "ஸ்டார் பூ ஸ்டோன் யானைக்கன்ன",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      }
+    ]
+  },
+  {
+    "categoryName": "உள்ளன் பால்",
+    "items": [
+      {
+        "itemName": "1 No",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "2 No",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      }
+    ]
+  },
+  {
+    "categoryName": "TUBE  நூல் சிறியது",
+    "items": [
+      {
+        "itemName": "ரோஸ்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "வெள்ளை",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "சிவப்பு",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "மஞ்சள்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      }
+    ]
+  },
+  {
+    "categoryName": "TUBE நூல் பெரியது",
+    "items": [
+      {
+        "itemName": "ரோஸ்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "வெள்ளை",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "சிவப்பு",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "மஞ்சள்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "கோல்டு சடைபெட்டி",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      }
+    ]
+  },
+  {
+    "categoryName": "நயந்தாரா பால்",
+    "items": [
+      {
+        "itemName": "1 No",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "2 No",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "3 No",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "4 No",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      }
+    ]
+  },
+  {
+    "categoryName": "கல் குஞ்சம்   SPL  குப்ப",
+    "items": [
+      {
+        "itemName": "சிவப்பு",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "ரோஸ்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "பச்சை",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "சிந்தாமணி",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      }
+    ]
+  },
+  {
+    "categoryName": "மாலை பை",
+    "items": [
+      {
+        "itemName": "½    இன்ச் பாலிஸ்டர் டேப்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "¼   இன்ச் பாலிஸ்டர் டேப",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "பை சாதா",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "பை SPL",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "10 மல்லி",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "சம்பங்கி",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      }
+    ]
+  },
+  {
+    "categoryName": "விள்ளை ரங்கோலி",
+    "items": [
+      {
+        "itemName": "1 No",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "2 No",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "3 No",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "4 No",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      }
+    ]
+  },
+  {
+    "categoryName": "விள்ளை சாதா",
+    "items": [
+      {
+        "itemName": "1 No",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "2 No",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "3 No",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "4 No",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      }
+    ]
+  },
+  {
+    "categoryName": "ஸ்டோன் பூ",
+    "items": [
+      {
+        "itemName": "சிவப்பு",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "சிந்தாமணி",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "இங்க்புளூ",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "பச்சை",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "ஒயிட்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "ரோஸ்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "வைலட்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "10 மல்லி கோல்டு",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "திண்டாரம் கோல்டு",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "திண்டாரம் கலர்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "கிருஷ்ணர் பொம்மை",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "முருகர் பொம்மை",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      }
+    ]
+  },
+  {
+    "categoryName": "டெய்சி பூ இதழ்",
+    "items": [
+      {
+        "itemName": "பேன்டா",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "ரோஸ்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "புளூ",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "பச்சை",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "சிவப்பு",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "வைலட்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      }
+    ]
+  },
+  {
+    "categoryName": "விள்ளை தெர்மாகோல",
+    "items": [
+      {
+        "itemName": "1 No",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "2 No",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      }
+    ]
+  },
+  {
+    "categoryName": "ரேஷம் பால்",
+    "items": [
+      {
+        "itemName": "சிவப்பு",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "ரோஸ்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "பச்சை",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "சிந்தாமணி",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "பேன்டா",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "மஞ்சள்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "இங்க்புளூ",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      }
+    ]
+  },
+  {
+    "categoryName": "7 STAR",
+    "items": [
+      {
+        "itemName": "சிவப்பு",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "ரோஸ்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "பச்சை",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "சிந்தாமணி",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "ஒயிட்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      }
+    ]
+  },
+  {
+    "categoryName": "ஒட்டியானம்  3 LINE",
+    "items": [
+      {
+        "itemName": "கோல்டு",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "ஒயிட்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      }
+    ]
+  },
+  {
+    "categoryName": "ஒட்டியானம் 6 LINE",
+    "items": [
+      {
+        "itemName": "கோல்டு",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "ஒயிட்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      }
+    ]
+  },
+  {
+    "categoryName": "ஸ்டோன்பால் 3 NO 25 பால்",
+    "items": [
+      {
+        "itemName": "கோல்டு லைன",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "சில்வர் லைன்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "கோல்டு சதுரம்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "சில்வர் புள்ளி ஸ்டோன்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "சில்வர் சதுரம்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "மல்டிகலர் பொட்டு ர்வுண்ட",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      }
+    ]
+  },
+  {
+    "categoryName": "ஸ்டோன்பால் 1 NO 25 பால்",
+    "items": [
+      {
+        "itemName": "கோல்டு லைன",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "சில்வர் லைன்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "கோல்டு சதுரம்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "சில்வர் புள்ளி ஸ்டோன்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "சில்வர் சதுரம்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "மல்டிகலர் பொட்டு ர்வுண்ட",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      }
+    ]
+  },
+  {
+    "categoryName": "ஸ்டோன்பால் 4  NO 12 பால்",
+    "items": [
+      {
+        "itemName": "கோல்டு லைன்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "சிலவர் லைன்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "கோல்டு சதுரம்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "சில்வர் சதுரம",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "சில்வர் புள்ளி ஸ்டோன்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "கலர் பொட்டு ரவுண்ட",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      }
+    ]
+  },
+  {
+    "categoryName": "ஸ்டோன்பால் 5 NO 6 பால்",
+    "items": [
+      {
+        "itemName": "கோல்டு சதுரம",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "சில்வர் சதுரம்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "கலர் ஸ்டோன் சதுரம்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "கோல்டு லைன்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      }
+    ]
+  },
+  {
+    "categoryName": "ஸ்டோன் பால் 6 NO",
+    "items": [
+      {
+        "itemName": "கோல்டு சதுரம்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "கோல்டு கோலா",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "சில்வர் கோலா",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "வரி கோலா",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "பெல் 1NO",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "பெல் 2 NO",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "பெல்3 NO",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "பெல்4 NO",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      }
+    ]
+  },
+  {
+    "categoryName": "ஸ்டோன் பால் 2 NO",
+    "items": [
+      {
+        "itemName": "1 NO கோல்டு சில்வர்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "சிவப்பு மல்டி",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "ரோஸ்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "பச்சை",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "சிந்தாமணி",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "இங்க்புளூ",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "ஆரஞ்சு",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "மஞ்சள்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      }
+    ]
+  },
+  {
+    "categoryName": "நூல் கண்டு 20 கண்டு",
+    "items": [
+      {
+        "itemName": "மீடியம்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "கனம்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "நைஸ்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "கிளிப்பச்சை",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "கரும்பச்சை",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "சிவப்பு",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "மஞ்சள்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "வெள்ளை",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      }
+    ]
+  },
+  {
+    "categoryName": "நூல் கண்டு 6 கண்டு",
+    "items": [
+      {
+        "itemName": "மீடியம்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "கனம்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "நைஸ்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "கிளிப்பச்சை",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "கரும்பச்சை",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "சிவப்பு",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "மஞ்சள்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "வெள்ளை",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      }
+    ]
+  },
+  {
+    "categoryName": "ரிங் வளையம்",
+    "items": [
+      {
+        "itemName": "சிவப்பு",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "ரோஸ்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "சிவப்பு வெள்ள",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "வெள்ளை சிவப்பு",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "பச்சை வெள்ளை",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "ரோஸ் வெள்ள",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "சிந்தாமணி வெள்ளை",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      }
+    ]
+  },
+  {
+    "categoryName": "பூ பாக்கேட் பெரியது",
+    "items": [
+      {
+        "itemName": "சிவப்பு",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "ரோஸ்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "மெருன்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "வாடாமல்லி",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "இங்க்புளூ",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "பால்ரோஸ்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "கரும்பச்சை",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "ஆரஞ்சு",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "லைட்வைலட்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "சிந்தாமணி",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "பிஸ்தாகிரின்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "கிளிப்பச்சை",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "மஞ்சள்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "வெள்ளை",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "டார்க் வைலட்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "சில்வர்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "கோல்டு",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      }
+    ]
+  },
+  {
+    "categoryName": "பூ பாக்கேட் சிறியது",
+    "items": [
+      {
+        "itemName": "சிவப்பு",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "ரோஸ்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "மெருன்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "வாடாமல்லி",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "இங்க்புளூ",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "பால்ரோஸ்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "கரும்பச்சை",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "ஆரஞ்சு",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "லைட்வைலட்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "சிந்தாமணி",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "பிஸ்தாகிரின்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "கிளிப்பச்சை",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "மஞ்சள்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "வெள்ளை",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "டார்க் வைலட்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "சில்வர்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "கோல்டு",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      }
+    ]
+  },
+  {
+    "categoryName": "ஸ்பிரே",
+    "items": [
+      {
+        "itemName": "வைலட் 940",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "மாம்பழம்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "மஞ்சள் 941",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "மஞ்சள் 918",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "மெருன் 222",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "டார்க் சிவப்பு 939",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "சிவப்பு 911",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "ரோஸ் 299",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "ஆரஞ்சு 926",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "லைட்பிங்க் 929",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "கோல்டு 928",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "ஆர்கெட் OBDOI",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "கேண்டி ப்ளூ 235",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "ப்ளோரோசென்ட் பச்சை F5",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "கருப்பு 910",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "வெள்ளை 900",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "டார்க் ப்ளூ  916",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "ரிவர் ப்ளூ 942",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "சிந்தாமணி ப்ளூ  913",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "லைட் சிந்தாமணி   924",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "கரும்பச்சை  914",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "ஆப்பிள் பச்சை  917",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      }
+    ]
+  },
+  {
+    "categoryName": "டேப்",
+    "items": [
+      {
+        "itemName": "கோல்டு டேப்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "சிந்தாமணி டேப்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "கரும்பச்சை டேப்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "கிளிப்பச்சை டேப்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "ரோஸ் டேப்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "ஒயிட் டேப்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "இங்க்புளூ டேப்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "வைலட் டேப்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "சிலவர் டேப்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "½ இன்ச் டேப்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "¼ இன்ச் டேப்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      }
+    ]
+  },
+  {
+    "categoryName": "கல்குஞ்சம்",
+    "items": [
+      {
+        "itemName": "சிவப்பு",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "ரோஸ்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "பச்சை",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "சிந்தாமணி",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "வைலட்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "இங்க்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "வாடாமல்லி",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "பிஸ்தாகிரின்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      }
+    ]
+  },
+  {
+    "categoryName": "பால்குஞ்சம்",
+    "items": [
+      {
+        "itemName": "சிவப்பு",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "ரோஸ்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "சிந்தாமணி",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "இங்க்புளூ",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "ஆரஞ்சு",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "கோல்டு",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "பச்சை",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "மஞ்சள்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "இதழ் குஞ்சம",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      }
+    ]
+  },
+  {
+    "categoryName": "டெய்சி",
+    "items": [
+      {
+        "itemName": "சிவப்பு",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "ரோஸ்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "பச்சை",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "வைலட்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "ஆரஞ்சு",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "இங்க்புளூ",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      }
+    ]
+  },
+  {
+    "categoryName": "உள்ளன் நூல்  சிறியது",
+    "items": [
+      {
+        "itemName": "கிளிப்பச்சை கனம்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "கரும்பச்சை கனம்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "கிளிப்பச்சை நைஸ்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "கரும்பச்சை நைஸ்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "சிவப்பு",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "அரக்கு சிவப்பு நைஸ்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "அரக்கு சிவப்பு கனம",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "ஆரஞ்சு",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "வெள்ளை",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "கருப்பு",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "வாடாமல்லி",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "மெருன் கனம்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "மெருன் நைஸ்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "மாம்பழம் மஞ்சள்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "மஞ்சள்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "ரோஸ்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "சிந்தாமணி",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "இங்க்புளூ",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      }
+    ]
+  },
+  {
+    "categoryName": "உள்ளன்",
+    "items": [
+      {
+        "itemName": "கிளிப்பச்சை நைஸ்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "கரும்பச்சை நைஸ்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "கிளிப்பச்சை கனம்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "கரும்பச்சை கனம்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "ரோஸ்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "சிவப்பு",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "மஞ்சள்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "மாம்பழம் மஞ்சள்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "இங்க்ப்ளூ",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "சிந்தாமணி",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "ஆரஞ்சு",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "வெள்ளை",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "அரக்கு சிவப்பு",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "மெருன்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "பால்ரோஸ்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "வாடாமல்லி",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "கருப்பு",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "மயில் ப்ளூ",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      }
+    ]
+  },
+  {
+    "categoryName": "பாசி",
+    "items": [
+      {
+        "itemName": "கோல்டு   8  NO",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "கோல்டு 10 NO",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "கோல்டு 12 NO",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "சரம் 10 NO",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "சில்வர்  10 NO",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "சில்வர் 12 NO",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "சில்வர் 16 NO",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      }
+    ]
+  },
+  {
+    "categoryName": "நெட் பெரியது கபூர்",
+    "items": [
+      {
+        "itemName": "கோல்டு",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "சிந்தாமணி",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "பச்சை",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "சிவப்பு",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "பால் ரோஸ்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "இங்க்ப்ளூ",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "சில்வர்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "வைலட்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "வாடாமல்லி",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "கோல்டு தட்டு சிறியது",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "கோல்டு தட்டு பெரியது",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "இலை தட்டு",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "சிறிய குப்பி கோல்டு",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "பெரிய குப்பி",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "SPL குப்பி",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "சிறிய குப்பி சில்வர்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      }
+    ]
+  },
+  {
+    "categoryName": "நெட் சிறியது",
+    "items": [
+      {
+        "itemName": "கோல்டு",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "சிந்தாமணி",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "பச்சை",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "சிவப்பு",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "பால் ரோஸ்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "இங்க்ப்ளூ",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "சில்வர்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "வைலட்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "வாடாமல்லி",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "கோல்டு தட்டு சிறியது",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "கோல்டு தட்டு பெரியது",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "இலை தட்டு",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "சிறிய குப்பி கோல்டு",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "பெரிய குப்பி",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "SPL குப்பி",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "சிறிய குப்பி சில்வர்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      }
+    ]
+  },
+  {
+    "categoryName": "முளைப்பாரி குச்சி",
+    "items": [
+      {
+        "itemName": "அம்மன்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "சூலாயுதம்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "வேல்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "OASIS CHOICE",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "பொக்கே கேன்டில்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "கார்டெக்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "எலாச்சி 8 மல்லி",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "சிங்கம் மார்க் டொயின்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "ரபியா",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      }
+    ]
+  },
+  {
+    "categoryName": "ஒயிட் பாசி",
+    "items": [
+      {
+        "itemName": "10 No சைனா",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "10 No",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "12 No",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      }
+    ]
+  },
+  {
+    "categoryName": "சந்தன மாலை",
+    "items": [
+      {
+        "itemName": "போட்டோ மாலை",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "3 சரம்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "5 சரம்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "7 சரம்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "10 சரம்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      }
+    ]
+  },
+  {
+    "categoryName": "சாக்கு",
+    "items": [
+      {
+        "itemName": "4 ரூபாய்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "5 ரூபாய்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "8 ரூபாய்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "15 ரூபாய்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "20 ரூபாய்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "30 ரூபாய்",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      }
+    ]
+  },
+  {
+    "categoryName": "கொடைரோடு பை",
+    "items": [
+      {
+        "itemName": "3 KG",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "5 KG",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "8 KG",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "10 KG",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "15 KG",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      },
+      {
+        "itemName": "20 KG",
+        "stack": 0,
+        "buyingPrice": 0.0,
+        "sellingPrice": 0.0,
+        "avgCostPrice": 0,
+        "purchaseLog": []
+      }
+    ]
+  }
+]
