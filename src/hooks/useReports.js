@@ -86,6 +86,31 @@ const useReports = () => {
     });
   }, [products]);
 
+  const inventoryTotals = useMemo(() => {
+    let totalStock = 0, totalStockValue = 0, totalSaleValue = 0, totalItems = 0;
+    for (const cat of inventoryReport) {
+      totalItems += cat.totalItems;
+      totalStock += cat.totalStock;
+      totalStockValue += cat.stockValue;
+      totalSaleValue += cat.saleValue;
+    }
+    return { totalItems, totalStock, totalStockValue, totalSaleValue };
+  }, [inventoryReport]);
+
+  const inventoryDetail = useMemo(() => {
+    return products.map((cat) => ({
+      categoryName: cat.categoryName,
+      items: cat.items.map((item) => ({
+        itemName: item.itemName,
+        stock: item.stack,
+        avgCostPrice: Math.round(item.avgCostPrice || 0),
+        sellingPrice: Math.round(item.sellingPrice || 0),
+        stockValue: Math.round(item.stack * (item.avgCostPrice || 0)),
+        saleValue: Math.round(item.stack * (item.sellingPrice || 0)),
+      })),
+    }));
+  }, [products]);
+
   const categorySalesReport = useMemo(() => {
     const catMap = {};
     for (const bill of getFilteredBills) {
@@ -140,6 +165,8 @@ const useReports = () => {
     salesReport,
     profitReport,
     inventoryReport,
+    inventoryTotals,
+    inventoryDetail,
     categorySalesReport,
     lowStockItems,
     customerReport,

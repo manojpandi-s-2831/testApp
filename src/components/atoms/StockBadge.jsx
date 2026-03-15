@@ -1,17 +1,32 @@
 import Chip from '@mui/material/Chip';
+import { useTranslation } from 'react-i18next';
 
 const StockBadge = ({ stock }) => {
-  let color = 'success';
-  if (stock === 0) color = 'error';
-  else if (stock <= 10) color = 'warning';
+  const { t } = useTranslation();
 
+  if (stock === 0) {
+    return (
+      <Chip
+        label={t('products.outOfStock')}
+        size="small"
+        sx={{ fontWeight: 600, fontSize: 11, bgcolor: '#FEF2F2', color: '#DC2626', border: 'none', minWidth: 80 }}
+      />
+    );
+  }
+
+  const isLow = stock <= 10;
   return (
     <Chip
-      label={stock}
-      color={color}
+      label={`${stock} ${t('products.stock')}`}
       size="small"
-      variant="outlined"
-      sx={{ fontWeight: 600, minWidth: 48 }}
+      sx={{
+        fontWeight: 600,
+        fontSize: 11,
+        bgcolor: isLow ? '#FFFBEB' : '#F0FDF4',
+        color: isLow ? '#D97706' : '#16A34A',
+        border: 'none',
+        minWidth: 64,
+      }}
     />
   );
 };

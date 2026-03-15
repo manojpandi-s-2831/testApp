@@ -63,7 +63,7 @@ const NewBill = () => {
 
   return (
     <Box>
-      <Typography variant="h5" gutterBottom>{t('nav.newBill')}</Typography>
+      <Typography variant="h5" gutterBottom sx={{ fontWeight: 700, color: 'text.primary', fontSize: 22 }}>{t('nav.newBill')}</Typography>
 
       {/* Customer selector */}
       {customers.length > 0 && (

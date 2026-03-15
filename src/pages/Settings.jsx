@@ -70,11 +70,11 @@ const Settings = () => {
 
   return (
     <Box>
-      <Typography variant="h5" gutterBottom>{t('nav.settings')}</Typography>
+      <Typography variant="h5" gutterBottom sx={{ fontWeight: 700, color: 'text.primary', fontSize: 22 }}>{t('nav.settings')}</Typography>
 
-      <Card elevation={1} sx={{ mb: 3 }}>
-        <CardContent>
-          <Typography variant="h6" gutterBottom>{t('settings.shopInfo')}</Typography>
+      <Card elevation={0} sx={{ mb: 3, borderRadius: '20px' }}>
+        <CardContent sx={{ p: 3 }}>
+          <Typography variant="h6" gutterBottom sx={{ fontWeight: 600 }}>{t('settings.shopInfo')}</Typography>
           <Box sx={{ display: 'flex', flexDirection: 'column', gap: 2, maxWidth: 400 }}>
             <TextField size="small" label={t('settings.shopName')} value={shopName} onChange={(e) => setShopName(e.target.value)} />
             <TextField size="small" label={t('settings.shopAddress')} value={shopAddress} onChange={(e) => setShopAddress(e.target.value)} multiline rows={2} />
@@ -85,9 +85,9 @@ const Settings = () => {
         </CardContent>
       </Card>
 
-      <Card elevation={1} sx={{ mb: 3 }}>
-        <CardContent>
-          <Typography variant="h6" gutterBottom>{t('settings.dataManagement')}</Typography>
+      <Card elevation={0} sx={{ mb: 3, borderRadius: '20px' }}>
+        <CardContent sx={{ p: 3 }}>
+          <Typography variant="h6" gutterBottom sx={{ fontWeight: 600 }}>{t('settings.dataManagement')}</Typography>
           <Box sx={{ display: 'flex', gap: 2, flexWrap: 'wrap' }}>
             <Button variant="outlined" startIcon={<DownloadIcon />} onClick={doExport}>{t('settings.exportData')}</Button>
             <Button variant="outlined" startIcon={<UploadIcon />} onClick={() => fileRef.current.click()}>{t('settings.importData')}</Button>
@@ -98,9 +98,9 @@ const Settings = () => {
         </CardContent>
       </Card>
 
-      <Card elevation={1} sx={{ mb: 3 }}>
-        <CardContent>
-          <Typography variant="h6" gutterBottom>{t('settings.language')}</Typography>
+      <Card elevation={0} sx={{ mb: 3, borderRadius: '20px' }}>
+        <CardContent sx={{ p: 3 }}>
+          <Typography variant="h6" gutterBottom sx={{ fontWeight: 600 }}>{t('settings.language')}</Typography>
           <FormControl size="small" sx={{ minWidth: 200 }}>
             <InputLabel>{t('settings.language')}</InputLabel>
             <Select value={settings.language} label={t('settings.language')} onChange={(e) => { setLanguage(e.target.value); i18n.changeLanguage(e.target.value); }}>

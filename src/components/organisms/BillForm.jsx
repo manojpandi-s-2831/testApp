@@ -18,7 +18,7 @@ const BillForm = ({ products, billItems, onAddItem, onRemoveItem, onSellPriceCha
   return (
     <Box>
       <ItemSelector products={products} onAdd={onAddItem} />
-      <TableContainer component={Paper} sx={{ mt: 2 }} variant="outlined">
+      <TableContainer component={Paper} elevation={0} sx={{ mt: 2, borderRadius: '14px', bgcolor: 'background.paper', border: 1, borderColor: 'divider' }}>
         <Table size="small">
           <TableHead>
             <TableRow>

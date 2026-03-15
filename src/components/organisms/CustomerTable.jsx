@@ -29,10 +29,10 @@ const CustomerTable = memo(({ customers, sortField, sortDir, onSort, onViewCusto
   }
 
   return (
-    <TableContainer component={Paper} elevation={1} sx={{ borderRadius: '12px' }}>
+    <TableContainer component={Paper} elevation={0} sx={{ borderRadius: '14px', bgcolor: 'background.paper', border: 1, borderColor: 'divider' }}>
       <Table size="small">
         <TableHead>
-          <TableRow sx={(theme) => ({ bgcolor: theme.palette.mode === 'dark' ? '#1E293B' : '#F1F5F9' })}>
+          <TableRow sx={{ bgcolor: 'background.default' }}>
             {sortableHead('name', t('customers.name'), 'left')}
             <TableCell sx={{ fontWeight: 600, fontSize: 13, textTransform: 'uppercase', color: 'text.secondary' }}>{t('customers.mobile')}</TableCell>
             {sortableHead('totalBills', t('customers.totalBills'), 'right')}
@@ -46,13 +46,12 @@ const CustomerTable = memo(({ customers, sortField, sortDir, onSort, onViewCusto
             <TableRow
               key={c.mobile}
               hover
-              sx={(theme) => ({
-                bgcolor: i % 2 === 0
-                  ? theme.palette.mode === 'dark' ? '#334155' : '#FFFFFF'
-                  : theme.palette.mode === 'dark' ? '#2D3F55' : '#F8FAFC',
+              sx={{
+                '&:hover': { bgcolor: 'action.hover' },
+                transition: 'background 150ms',
                 cursor: 'pointer',
-                minHeight: 48,
-              })}
+                minHeight: 54,
+              }}
               onClick={() => onViewCustomer(c)}
             >
               <TableCell>{c.name}</TableCell>

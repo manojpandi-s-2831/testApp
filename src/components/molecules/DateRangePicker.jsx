@@ -9,16 +9,18 @@ const DateRangePicker = ({ dateRange, onChange, accentColor = '#3B82F6' }) => {
 
   return (
     <Box
-      sx={(theme) => ({
+      sx={{
         display: 'flex',
         gap: 2,
         alignItems: 'center',
         flexWrap: 'wrap',
         mb: 2,
-        bgcolor: theme.palette.mode === 'dark' ? '#1E293B' : '#F8FAFC',
-        borderRadius: '8px',
+        bgcolor: 'background.default',
+        borderRadius: '14px',
+        border: 1,
+        borderColor: 'divider',
         p: '12px 16px',
-      })}
+      }}
     >
       <ToggleButtonGroup
         value={dateRange.type}
@@ -29,13 +31,14 @@ const DateRangePicker = ({ dateRange, onChange, accentColor = '#3B82F6' }) => {
           '& .MuiToggleButton-root': {
             textTransform: 'none',
             fontWeight: 500,
-            borderColor: '#E2E8F0',
+            borderColor: 'divider',
+            color: 'text.secondary',
             px: 2,
           },
           '& .Mui-selected': {
-            bgcolor: `${accentColor}1A !important`,
+            bgcolor: `${accentColor}26 !important`,
             color: `${accentColor} !important`,
-            borderColor: `${accentColor} !important`,
+            borderColor: `${accentColor}66 !important`,
             fontWeight: 600,
           },
         }}

@@ -28,7 +28,7 @@ const LanguageMenu = () => {
   return (
     <>
       <Tooltip title="Language">
-        <IconButton color="inherit" onClick={(e) => setAnchorEl(e.currentTarget)}>
+        <IconButton onClick={(e) => setAnchorEl(e.currentTarget)} sx={{ color: 'text.secondary', '&:hover': { color: 'text.primary' } }}>
           <LanguageIcon />
         </IconButton>
       </Tooltip>

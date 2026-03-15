@@ -25,7 +25,7 @@ const BillHistory = () => {
 
   return (
     <Box>
-      <Typography variant="h5" gutterBottom>{t('nav.billHistory')}</Typography>
+      <Typography variant="h5" gutterBottom sx={{ fontWeight: 700, color: 'text.primary', fontSize: 22 }}>{t('nav.billHistory')}</Typography>
       <BillHistoryTable
         bills={bills}
         onView={setViewBill}

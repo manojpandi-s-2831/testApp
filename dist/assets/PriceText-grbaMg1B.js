@@ -1,0 +1,1 @@
+import{j as p,f as a}from"./vendor-mui-6NdHWlKi.js";const i=({value:t,variant:o="body2",color:r,sx:e,...n})=>{const s=typeof t=="number"?`₹${t.toLocaleString("en-IN")}`:"₹0";return p.jsx(a,{variant:o,color:r,sx:e,...n,children:s})};export{i as P};

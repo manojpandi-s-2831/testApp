@@ -47,7 +47,8 @@
     "confirmDeleteItem": "क्या आप इस उत्पाद को हटाना चाहते हैं?",
     "confirmDeleteCategory": "क्या आप इस श्रेणी और इसके सभी उत्पादों को हटाना चाहते हैं?",
     "items": "उत्पाद",
-    "noItems": "इस श्रेणी में कोई उत्पाद नहीं"
+    "noItems": "इस श्रेणी में कोई उत्पाद नहीं",
+    "outOfStock": "स्टॉक में नहीं"
   },
   "billing": {
     "customerName": "ग्राहक नाम",
@@ -92,6 +93,7 @@
     "profitReport": "लाभ रिपोर्ट",
     "inventoryReport": "इन्वेंटरी रिपोर्ट",
     "categorySales": "श्रेणी बिक्री",
+    "categoryBreakdown": "श्रेणी-वार उत्पाद विवरण",
     "customerReport": "ग्राहक रिपोर्ट",
     "topByAmount": "राशि के अनुसार शीर्ष 5 ग्राहक",
     "topByProfit": "लाभ के अनुसार शीर्ष 5 ग्राहक",

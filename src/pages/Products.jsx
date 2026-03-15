@@ -28,6 +28,9 @@ const Products = () => {
   const [editProductOpen, setEditProductOpen] = useState(false);
   const [addStockOpen, setAddStockOpen] = useState(false);
   const [editCatOpen, setEditCatOpen] = useState(false);
+
+  // Only one category accordion open at a time
+  const [expandedCat, setExpandedCat] = useState(null);
   const [confirmOpen, setConfirmOpen] = useState(false);
 
   // Form states
@@ -107,28 +110,34 @@ const Products = () => {
 
   return (
     <Box>
-      <Typography variant="h5" gutterBottom>{t('nav.products')}</Typography>
-      <Box sx={{ display: 'flex', gap: 2, mb: 2, flexWrap: 'wrap', alignItems: 'center' }}>
-        <SearchInput value={searchTerm} onChange={setSearchTerm} placeholder={t('products.search')} />
-        <Button variant="contained" startIcon={<AddIcon />} onClick={() => setAddProductOpen(true)}>{t('products.addProduct')}</Button>
-        <Button variant="outlined" startIcon={<AddIcon />} onClick={() => setAddCategoryOpen(true)}>{t('products.addCategory')}</Button>
+      <Box sx={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', mb: 3, flexWrap: 'wrap', gap: 1.5 }}>
+        <Typography variant="h5" sx={{ fontWeight: 700, color: 'text.primary', fontSize: 22 }}>{t('nav.products')}</Typography>
+        <Box sx={{ display: 'flex', gap: 1.5, alignItems: 'center' }}>
+          <SearchInput value={searchTerm} onChange={setSearchTerm} placeholder={t('products.search')} sx={{ width: 320 }} />
+          <Button variant="contained" startIcon={<AddIcon />} onClick={() => setAddProductOpen(true)} sx={{ '&:active': { transform: 'scale(0.96)' } }}>{t('products.addProduct')}</Button>
+          <Button variant="outlined" startIcon={<AddIcon />} onClick={() => setAddCategoryOpen(true)} sx={{ '&:active': { transform: 'scale(0.96)' } }}>{t('products.addCategory')}</Button>
+        </Box>
       </Box>
 
-      {filteredProducts.map((cat, catIdx) => {
-        const realCatIdx = products.findIndex((c) => c.categoryName === cat.categoryName);
-        return (
-          <CategoryAccordion
-            key={cat.categoryName}
-            category={cat}
-            catIdx={realCatIdx}
-            onEditCategory={openEditCategory}
-            onDeleteCategory={openDeleteCategory}
-            onEditProduct={openEditProduct}
-            onDeleteProduct={openDeleteProduct}
-            onAddStock={openAddStock}
-          />
-        );
-      })}
+      <Box sx={{ display: 'flex', flexDirection: 'column', gap: 1.5 }}>
+        {filteredProducts.map((cat, catIdx) => {
+          const realCatIdx = products.findIndex((c) => c.categoryName === cat.categoryName);
+          return (
+            <CategoryAccordion
+              key={cat.categoryName}
+              category={cat}
+              catIdx={realCatIdx}
+              expandedCat={expandedCat}
+              onToggle={setExpandedCat}
+              onEditCategory={openEditCategory}
+              onDeleteCategory={openDeleteCategory}
+              onEditProduct={openEditProduct}
+              onDeleteProduct={openDeleteProduct}
+              onAddStock={openAddStock}
+            />
+          );
+        })}
+      </Box>
 
       {/* Add Product Dialog */}
       <Dialog open={addProductOpen} onClose={() => setAddProductOpen(false)} maxWidth="sm" fullWidth>

@@ -44,7 +44,7 @@ const CustomerDetailDialog = ({ customer, bills, open, onClose }) => {
           )}
           <Grid container spacing={2} sx={{ my: 1 }}>
             <Grid item xs={6} sm={3}>
-              <Card elevation={0} sx={{ bgcolor: 'action.hover', borderRadius: '8px' }}>
+              <Card elevation={0} sx={{ bgcolor: 'background.paper', borderRadius: '14px', border: 1, borderColor: 'divider' }}>
                 <CardContent sx={{ p: 2, '&:last-child': { pb: 2 } }}>
                   <Typography variant="caption" color="text.secondary">{t('customers.totalBills')}</Typography>
                   <Typography variant="h6">{bills.length}</Typography>
@@ -52,7 +52,7 @@ const CustomerDetailDialog = ({ customer, bills, open, onClose }) => {
               </Card>
             </Grid>
             <Grid item xs={6} sm={3}>
-              <Card elevation={0} sx={{ bgcolor: 'action.hover', borderRadius: '8px' }}>
+              <Card elevation={0} sx={{ bgcolor: 'background.paper', borderRadius: '14px', border: 1, borderColor: 'divider' }}>
                 <CardContent sx={{ p: 2, '&:last-child': { pb: 2 } }}>
                   <Typography variant="caption" color="text.secondary">{t('customers.totalAmount')}</Typography>
                   <Typography variant="h6">₹{Math.round(totalAmount).toLocaleString('en-IN')}</Typography>
@@ -60,15 +60,15 @@ const CustomerDetailDialog = ({ customer, bills, open, onClose }) => {
               </Card>
             </Grid>
             <Grid item xs={6} sm={3}>
-              <Card elevation={0} sx={{ bgcolor: 'action.hover', borderRadius: '8px' }}>
+              <Card elevation={0} sx={{ bgcolor: 'background.paper', borderRadius: '14px', border: 1, borderColor: 'divider' }}>
                 <CardContent sx={{ p: 2, '&:last-child': { pb: 2 } }}>
                   <Typography variant="caption" color="text.secondary">{t('reports.totalProfit')}</Typography>
-                  <Typography variant="h6" sx={{ color: totalProfit > 0 ? '#22C55E' : '#EF4444' }}>₹{Math.round(totalProfit).toLocaleString('en-IN')}</Typography>
+                  <Typography variant="h6" sx={{ color: totalProfit > 0 ? '#4ADE80' : '#F87171' }}>₹{Math.round(totalProfit).toLocaleString('en-IN')}</Typography>
                 </CardContent>
               </Card>
             </Grid>
             <Grid item xs={6} sm={3}>
-              <Card elevation={0} sx={{ bgcolor: 'action.hover', borderRadius: '8px' }}>
+              <Card elevation={0} sx={{ bgcolor: 'background.paper', borderRadius: '14px', border: 1, borderColor: 'divider' }}>
                 <CardContent sx={{ p: 2, '&:last-child': { pb: 2 } }}>
                   <Typography variant="caption" color="text.secondary">{t('customers.avgBillValue')}</Typography>
                   <Typography variant="h6">₹{avgBillValue.toLocaleString('en-IN')}</Typography>
@@ -84,7 +84,7 @@ const CustomerDetailDialog = ({ customer, bills, open, onClose }) => {
             <TableContainer component={Paper} elevation={0}>
               <Table size="small">
                 <TableHead>
-                  <TableRow sx={(th) => ({ bgcolor: th.palette.mode === 'dark' ? '#1E293B' : '#F1F5F9' })}>
+                  <TableRow sx={{ bgcolor: 'background.default' }}>
                     <TableCell>{t('billing.billNo')}</TableCell>
                     <TableCell>{t('billing.date')}</TableCell>
                     <TableCell align="right">{t('billing.itemsCount')}</TableCell>

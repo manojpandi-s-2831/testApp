@@ -47,8 +47,8 @@ const Customers = () => {
   return (
     <Box>
       <Box sx={{ display: 'flex', alignItems: 'center', gap: 2, mb: 2 }}>
-        <Typography variant="h5" sx={{ fontWeight: 600 }}>{t('nav.customers')}</Typography>
-        <Chip label={`${customers.length} ${t('customers.customers')}`} size="small" color="primary" variant="outlined" />
+        <Typography variant="h5" sx={{ fontWeight: 700, color: 'text.primary', fontSize: 22 }}>{t('nav.customers')}</Typography>
+        <Chip label={`${customers.length} ${t('customers.customers')}`} size="small" sx={{ bgcolor: 'rgba(99,102,241,0.15)', color: '#818CF8', border: 'none' }} />
       </Box>
       <SearchInput value={search} onChange={setSearch} placeholder={t('customers.search')} sx={{ mb: 2, maxWidth: 400 }} />
       <CustomerTable

@@ -20,8 +20,8 @@ const ProfileMenu = () => {
   return (
     <>
       <Tooltip title={settings.shopName}>
-        <IconButton color="inherit" onClick={(e) => setAnchorEl(e.currentTarget)}>
-          <Avatar sx={{ width: 32, height: 32, bgcolor: 'primary.main' }}>
+        <IconButton onClick={(e) => setAnchorEl(e.currentTarget)} sx={{ color: 'text.secondary' }}>
+          <Avatar sx={{ width: 36, height: 36, bgcolor: '#4F46E5', border: 2, borderColor: 'divider' }}>
             <StoreIcon fontSize="small" />
           </Avatar>
         </IconButton>

@@ -9,30 +9,32 @@ import Paper from '@mui/material/Paper';
 import Typography from '@mui/material/Typography';
 import { useTranslation } from 'react-i18next';
 
-const headerSx = (theme) => ({
-  bgcolor: theme.palette.mode === 'dark' ? '#1E293B' : '#F1F5F9',
+const headerSx = {
+  bgcolor: 'background.default',
   '& .MuiTableCell-head': {
-    color: theme.palette.mode === 'dark' ? '#94A3B8' : '#475569',
+    color: 'text.secondary',
     fontWeight: 600,
-    fontSize: 13,
+    fontSize: 11,
     textTransform: 'uppercase',
-    letterSpacing: '0.05em',
+    letterSpacing: '0.06em',
     px: 2,
     py: 1.5,
-    borderBottom: 'none',
+    borderBottom: 1,
+    borderColor: 'divider',
   },
-});
+};
 
-const rowSx = (theme, i) => ({
-  minHeight: 48,
-  bgcolor:
-    theme.palette.mode === 'dark'
-      ? i % 2 === 0 ? '#334155' : '#2D3F55'
-      : i % 2 === 0 ? '#FFFFFF' : '#F8FAFC',
+const rowSx = (i) => ({
+  minHeight: 54,
+  '&:hover': { bgcolor: 'action.hover' },
+  transition: 'background 150ms',
   '& .MuiTableCell-body': {
     px: 2,
     py: 1.5,
-    borderBottom: `1px solid ${theme.palette.mode === 'dark' ? '#475569' : '#E2E8F0'}`,
+    borderBottom: 1,
+    borderColor: 'divider',
+    color: 'text.primary',
+    fontVariantNumeric: 'tabular-nums',
   },
   '&:last-child .MuiTableCell-body': {
     borderBottom: 'none',
@@ -46,11 +48,13 @@ const ReportTable = memo(({ columns, data, emptyMessage, accentColor }) => {
     <TableContainer
       component={Paper}
       elevation={0}
-      sx={(theme) => ({
-        borderRadius: '12px',
-        border: `1px solid ${theme.palette.mode === 'dark' ? '#475569' : '#E2E8F0'}`,
+      sx={{
+        borderRadius: '14px',
+        bgcolor: 'background.paper',
+        border: 1,
+        borderColor: 'divider',
         overflow: 'hidden',
-      })}
+      }}
     >
       <Table>
         <TableHead>
@@ -69,7 +73,7 @@ const ReportTable = memo(({ columns, data, emptyMessage, accentColor }) => {
             </TableRow>
           ) : (
             data.map((row, i) => (
-              <TableRow key={i} sx={(theme) => rowSx(theme, i)}>
+              <TableRow key={i} sx={rowSx(i)}>
                 {columns.map((col) => (
                   <TableCell key={col.key} align={col.align || 'left'}>
                     {col.render ? col.render(row[col.key], row) : row[col.key]}
