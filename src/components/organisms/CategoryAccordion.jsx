@@ -16,9 +16,10 @@ import { useTranslation } from 'react-i18next';
 /* Mini stat card for category summary — solid professional style */
 const MiniStat = ({ icon, iconBg, label, value }) => (
   <Box sx={{
-    display: 'flex', flexDirection: 'column', gap: 0.25, minWidth: 130, px: 2, py: 1.5,
+    display: 'flex', flexDirection: 'column', gap: 0.25, minWidth: { xs: 'calc(50% - 8px)', sm: 130 }, flex: { xs: '1 1 calc(50% - 8px)', sm: '0 0 auto' }, px: 2, py: 1.5,
     bgcolor: 'background.default', borderRadius: '10px', border: 1, borderColor: 'divider',
     transition: 'all 200ms ease',
+    boxSizing: 'border-box',
     '&:hover': { boxShadow: '0 2px 8px rgba(0,0,0,0.06)' },
   }}>
     <Box sx={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>

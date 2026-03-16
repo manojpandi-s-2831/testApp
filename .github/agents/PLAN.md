@@ -867,11 +867,20 @@ Actions: updateSettings(partial), toggleTheme()
 
 #### Step 16 — Inventory Report
 
-- Category table: Category | Total Items | Total Stock | Stock Value ₹ | Sale Value ₹
-- Stock Value = Σ (stack × avgCostPrice)
-- Sale Value = Σ (stack × sellingPrice) — uses product's **default** `sellingPrice` (appropriate for inventory valuation)
-- Low stock alerts (stock = 0 or below threshold)
-- Overall totals
+- **Summary Widgets (top row, 4 cards):**
+  - Categories — total category count
+  - Total Stock — overall stock quantity across all products
+  - Stock Value — total ₹ value at weighted average cost price: Σ (stack × avgCostPrice)
+  - Sale Value — total ₹ value at selling price: Σ (stack × sellingPrice) — uses product's **default** `sellingPrice` (appropriate for inventory valuation)
+
+- **Category-wise Product Breakdown (accordion list with search):**
+  - Search input at the top — filters products by name across all categories (case-insensitive, works with Tamil)
+  - Each category rendered as an expandable Accordion:
+    - **Header**: Category name + item count chip + total stock chip + Stock Value ₹ + Sale Value ₹
+    - **Expanded body**: Per-product table with columns: # | Item Name | Stock (color-coded chip: green/amber/red) | Avg Cost ₹ | Selling Price ₹ | Stock Value ₹ | Sale Value ₹
+  - When searching: only categories with matching items (or matching category name) are shown; item counts and values reflect filtered items
+  - Data source: `inventoryDetail` from `useReports()` — computed from `products` context (category → items with per-item stockValue/saleValue)
+  - Totals in summary widgets: `inventoryTotals` from `useReports()` — aggregated from `inventoryReport`
 
 #### Step 17 — Category Sales Report
 
@@ -1082,8 +1091,10 @@ testApp/
 | 10 | Billing: print invoice | Clean print layout, shop + customer details, sidebar/header hidden |
 | 11 | Reports: sales | Date-filtered totals match expected values |
 | 12 | Reports: profit | Reads frozen profit from bills — always accurate |
-| 13 | Reports: inventory | Category-wise stock/value summary correct |
-| 13b | Reports: customer report | Top 5 customers by amount/profit, customer summary table |
+| 13 | Reports: inventory summary | 4 summary widgets (Categories, Total Stock, Stock Value, Sale Value) show correct totals |
+| 13a | Reports: inventory breakdown | Category-wise accordion shows per-product Stock/AvgCost/SellPrice/StockValue/SaleValue |
+| 13b | Reports: inventory search | Search filters products by name across categories, hides non-matching categories |
+| 13c | Reports: customer report | Top 5 customers by amount/profit, customer summary table |
 | 14 | Settings: export | Downloads valid JSON with products + bills + customers + settings |
 | 15 | Settings: import | Restores data correctly (including customers) |
 | 16 | Settings: reset products | Re-seeds from original products.json |

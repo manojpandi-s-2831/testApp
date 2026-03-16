@@ -48,10 +48,14 @@ const press = 'transform 100ms ease, box-shadow 200ms ease';
 const buildComponents = (t) => ({
   MuiCssBaseline: {
     styleOverrides: {
+      html: {
+        overflowX: 'hidden',
+      },
       body: {
         background: t.bgPage,
         minHeight: '100vh',
         color: t.textPrimary,
+        overflowX: 'hidden',
       },
       '*::-webkit-scrollbar': { width: 6 },
       '*::-webkit-scrollbar-track': { background: 'transparent' },

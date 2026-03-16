@@ -53,7 +53,7 @@ const ReportTable = memo(({ columns, data, emptyMessage, accentColor }) => {
         bgcolor: 'background.paper',
         border: 1,
         borderColor: 'divider',
-        overflow: 'hidden',
+        overflowX: 'auto',
       }}
     >
       <Table>

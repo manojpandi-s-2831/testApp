@@ -30,8 +30,8 @@ const ProductTable = ({ items, onEdit, onDelete, onAddStock }) => {
   }
 
   return (
-    <Box>
-      <TableContainer>
+    <Box sx={{ overflowX: 'hidden' }}>
+      <TableContainer sx={{ overflowX: 'auto' }}>
         <Table size="small">
           <TableHead>
             <TableRow sx={{ bgcolor: 'background.default' }}>

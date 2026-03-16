@@ -112,10 +112,10 @@ const Products = () => {
     <Box>
       <Box sx={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', mb: 3, flexWrap: 'wrap', gap: 1.5 }}>
         <Typography variant="h5" sx={{ fontWeight: 700, color: 'text.primary', fontSize: 22 }}>{t('nav.products')}</Typography>
-        <Box sx={{ display: 'flex', gap: 1.5, alignItems: 'center' }}>
-          <SearchInput value={searchTerm} onChange={setSearchTerm} placeholder={t('products.search')} sx={{ width: 320 }} />
-          <Button variant="contained" startIcon={<AddIcon />} onClick={() => setAddProductOpen(true)} sx={{ '&:active': { transform: 'scale(0.96)' } }}>{t('products.addProduct')}</Button>
-          <Button variant="outlined" startIcon={<AddIcon />} onClick={() => setAddCategoryOpen(true)} sx={{ '&:active': { transform: 'scale(0.96)' } }}>{t('products.addCategory')}</Button>
+        <Box sx={{ display: 'flex', gap: 1, alignItems: 'center', flexWrap: 'wrap', flex: { xs: '1 1 100%', sm: '0 1 auto' } }}>
+          <SearchInput value={searchTerm} onChange={setSearchTerm} placeholder={t('products.search')} sx={{ width: { xs: '100%', sm: 260, md: 320 }, minWidth: 0 }} />
+          <Button variant="contained" size="small" startIcon={<AddIcon />} onClick={() => setAddProductOpen(true)} sx={{ whiteSpace: 'nowrap', '&:active': { transform: 'scale(0.96)' } }}>{t('products.addProduct')}</Button>
+          <Button variant="outlined" size="small" startIcon={<AddIcon />} onClick={() => setAddCategoryOpen(true)} sx={{ whiteSpace: 'nowrap', '&:active': { transform: 'scale(0.96)' } }}>{t('products.addCategory')}</Button>
         </Box>
       </Box>
 

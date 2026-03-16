@@ -115,22 +115,27 @@ const Reports = () => {
     <Box>
       <Typography variant="h5" gutterBottom sx={{ fontWeight: 700, color: 'text.primary', fontSize: 22 }}>{t('nav.reports')}</Typography>
 
-      {/* Glass pill tab toggle */}
+      {/* Pill tab toggle — scrollable on mobile */}
       <Box sx={{
-        display: 'inline-flex',
         borderRadius: '14px',
         bgcolor: 'background.default',
         border: 1,
         borderColor: 'divider',
         p: 0.5,
         mb: 3,
+        maxWidth: '100%',
+        overflow: 'hidden',
       }}>
         <Tabs
           value={tab}
           onChange={(_, v) => setTab(v)}
+          variant="scrollable"
+          scrollButtons="auto"
+          allowScrollButtonsMobile
           sx={{
             minHeight: 'auto',
             '& .MuiTabs-indicator': { display: 'none' },
+            '& .MuiTabs-scrollButtons': { width: 28, '&.Mui-disabled': { opacity: 0.3 } },
             '& .MuiTab-root': {
               textTransform: 'none',
               fontWeight: 500,
@@ -140,6 +145,8 @@ const Reports = () => {
               borderRadius: '10px',
               color: 'text.secondary',
               transition: 'all 200ms',
+              whiteSpace: 'nowrap',
+              minWidth: 'auto',
               '&.Mui-selected': {
                 bgcolor: '#4F46E5',
                 color: '#fff',
@@ -273,7 +280,7 @@ const Reports = () => {
                     </InputAdornment>
                   ),
                 }}
-                sx={{ minWidth: 240 }}
+                sx={{ minWidth: { xs: 0 }, width: { xs: '100%', sm: 260 } }}
               />
             </Box>
             <Box sx={{ display: 'flex', flexDirection: 'column', gap: 1.5 }}>
@@ -303,26 +310,26 @@ const Reports = () => {
                   >
                     <AccordionSummary
                       expandIcon={<ExpandMoreIcon />}
-                      sx={{ px: 2.5, py: 1 }}
+                      sx={{ px: { xs: 1.5, sm: 2.5 }, py: 1 }}
                     >
-                      <Box sx={{ display: 'flex', alignItems: 'center', gap: 2, width: '100%', flexWrap: 'wrap' }}>
-                        <Typography sx={{ fontWeight: 600, fontSize: 15, minWidth: 180 }}>
+                      <Box sx={{ display: 'flex', alignItems: 'center', gap: { xs: 1, sm: 2 }, width: '100%', flexWrap: 'wrap' }}>
+                        <Typography sx={{ fontWeight: 600, fontSize: { xs: 13, sm: 15 }, minWidth: 0, flex: { xs: '1 1 100%', sm: '0 0 auto' } }}>
                           {cat.categoryName}
                         </Typography>
-                        <Chip label={`${displayItems.length} items`} size="small" sx={{ bgcolor: '#EEF2FF', color: '#4F46E5', fontWeight: 600, fontSize: 12 }} />
-                        <Chip label={`Stock: ${catTotalStock}`} size="small" sx={{ bgcolor: '#FFFBEB', color: '#D97706', fontWeight: 600, fontSize: 12 }} />
-                        <Box sx={{ ml: 'auto', display: 'flex', gap: 2, alignItems: 'center' }}>
-                          <Typography variant="body2" color="text.secondary">
-                            Stock Value: <strong>₹{catStockValue.toLocaleString('en-IN')}</strong>
+                        <Chip label={`${displayItems.length} items`} size="small" sx={{ bgcolor: '#EEF2FF', color: '#4F46E5', fontWeight: 600, fontSize: 11 }} />
+                        <Chip label={`Stock: ${catTotalStock}`} size="small" sx={{ bgcolor: '#FFFBEB', color: '#D97706', fontWeight: 600, fontSize: 11 }} />
+                        <Box sx={{ ml: { xs: 0, sm: 'auto' }, display: 'flex', gap: { xs: 1.5, sm: 2 }, alignItems: 'center', flexWrap: 'wrap' }}>
+                          <Typography variant="body2" color="text.secondary" sx={{ fontSize: { xs: 12, sm: 14 } }}>
+                            Stock: <strong>₹{catStockValue.toLocaleString('en-IN')}</strong>
                           </Typography>
-                          <Typography variant="body2" sx={{ color: '#22C55E' }}>
-                            Sale Value: <strong>₹{catSaleValue.toLocaleString('en-IN')}</strong>
+                          <Typography variant="body2" sx={{ color: '#22C55E', fontSize: { xs: 12, sm: 14 } }}>
+                            Sale: <strong>₹{catSaleValue.toLocaleString('en-IN')}</strong>
                           </Typography>
                         </Box>
                       </Box>
                     </AccordionSummary>
                     <AccordionDetails sx={{ px: 0, py: 0 }}>
-                      <TableContainer>
+                      <TableContainer sx={{ overflowX: 'auto' }}>
                         <Table size="small">
                           <TableHead>
                             <TableRow sx={{ bgcolor: 'background.default' }}>

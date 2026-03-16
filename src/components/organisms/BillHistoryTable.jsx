@@ -36,7 +36,7 @@ const BillHistoryTable = ({ bills, onView, onPrint, onDelete }) => {
   return (
     <Box>
       <SearchInput value={search} onChange={setSearch} sx={{ mb: 2 }} />
-      <TableContainer component={Paper} elevation={0} sx={{ borderRadius: '14px', bgcolor: 'background.paper', border: 1, borderColor: 'divider' }}>
+      <TableContainer component={Paper} elevation={0} sx={{ borderRadius: '14px', bgcolor: 'background.paper', border: 1, borderColor: 'divider', overflowX: 'auto' }}>
         <Table size="small">
           <TableHead>
             <TableRow>

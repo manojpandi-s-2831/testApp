@@ -314,9 +314,12 @@ const AppLayout = () => {
             flexGrow: 1,
             ml: isMobile ? 0 : `${sidebarWidth}px`,
             mt: `${NAVBAR_H}px`,
-            p: 3,
+            p: { xs: 1.5, sm: 2, md: 3 },
             maxWidth: 1400,
             transition: 'margin-left 225ms',
+            overflowX: 'hidden',
+            width: isMobile ? '100%' : 'auto',
+            boxSizing: 'border-box',
           }}
         >
           <Outlet />
